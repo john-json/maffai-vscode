@@ -1,0 +1,21 @@
+{
+  "name": "maffai-code",
+  "displayName": "maffai-code",
+  "description": "for your eyes",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.91.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "maffai-code",
+        "uiTheme": "vs-dark",
+        "path": "./themes/maffai-color-theme.json"
+      }
+    ]
+  }
+}

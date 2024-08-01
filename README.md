@@ -2,8 +2,10 @@
 
 ## Working with Markdown
 
-  <h2>maffai vscode theme/h2>
-  
+  <h2>maffai vscode theme</h2>
+
+  </br>
+  </br>
 ![sketchybarMaffai](https://github.com/john-json/maffai-vscode/blob/main/Screenshot.png?raw=true)
 
 

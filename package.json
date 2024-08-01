@@ -1,8 +1,11 @@
 {
   "name": "maffai-code",
-  "displayName": "maffai-code",
-  "description": "for your eyes",
+  "displayName": "Maffai Code",
+  "description": "Maffai Code Dark",
+  "author": "john-json",
+  "icon": "icon.png",
   "version": "0.0.1",
+  "license": "MIT",
   "engines": {
     "vscode": "^1.91.0"
   },
@@ -12,9 +15,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "maffai-code",
+        "label": "Maffai Code",
         "uiTheme": "vs-dark",
-        "path": "./themes/maffai-color-theme.json"
+        "path": "./themes/maffai-code.json"
       }
     ]
   }

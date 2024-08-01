@@ -1,46 +1,57 @@
-{
-	"name": "maffai-code",
+ {
+	"name": "Maffai Code",
 	"type": "dark",
+	"editor.fontLigatures": true,
+
 	"colors": {
-		"editor.background": "#2d2e2f",
-		"editor.foreground": "#a2a2a2",
-	    "editorIndentGuide.background": "#2d2e2f",
-        "editorRuler.foreground": "#a2a2a2",
-		"activityBarBadge.background": "#2d2e2f",
-		"sideBarTitle.foreground": "#9d9d9d",
-        "focusBorder": "#2e2f30",
-        "errorForeground": "#883c3c",
-        "widget.border": "#2e2f30",
-        "editorCodeLens.foreground": "#dcdedf",
-        "titleBar.activeBackground": "#2d2e2f",
-        "titleBar.activeForeground": "#2d2e2f",
-        "titleBar.inactiveBackground": "#2d2e2f",
-        "titleBar.inactiveForeground": "#7a7771",
-        "progressBar.background": "#28292a",
-        "titleBar.border": "#2d2e2f",
-        "window.activeBorder": "#2d2e2f",
-        "window.inactiveBorder": "#2d2e2f",
-        "activityBar.background": "#2d2e2f",
-        "activityBar.foreground": "#c4c4c4",
-        "selection.background": "#313131",
-        "checkbox.background": "#28292a",
-        "sideBar.background": "#2d2e2f",
-        "sideBar.foreground": "#9d9d9d",
-        "sideBarSectionHeader.background": "#2d2e2f",
-        "sideBarSectionHeader.foreground": "#485a6a",
-        "input.background": "#28292a",
-        "inputOption.activeBorder": "#2e2f30",
-        "input.foreground": "#dcdedf",
-        "inputOption.activeForeground": "#dcdedf",
-        "input.placeholderForeground": "#525252",
-        "button.background": "#2a2a2c",
-        "button.foreground": "#dcdedf",
-        "statusBar.background": "#2d2e2f",
-        "statusBar.foreground": "#485a6a",
-        "dropdown.background": "#2a2a2c",
-        "dropdown.listBackground": "#302d2d",
-        "dropdown.border": "#2a2a2c"
+    "foreground": "#cfcdca",
+    "focusBorder": "#2e2f30",
+    "errorForeground": "#883c3c",
+    "widget.border": "#2e2f30",
+    "editor.background": "#2d2e2f",
+    "editor.foreground": "#a0a0a0"
 	},
+
+  "workbench.colorCustomizations": {
+    "foreground": "#cfcdca",
+    "focusBorder": "#2e2f30",
+    "errorForeground": "#883c3c",
+    "widget.border": "#2e2f30",
+    "editorCodeLens.foreground": "#dcdedf",
+    "titleBarStyle": "hiddenInset",
+    "titleBar.activeBackground": "#2d2e2f",
+    "titleBar.activeForeground": "#2d2e2f",
+    "titleBar.inactiveBackground": "#2d2e2f",
+    "titleBar.inactiveForeground": "#7a7771",
+    "progressBar.background": "#28292a",
+    "titleBar.border": "#2d2e2f",
+    "window.activeBorder": "#2d2e2f",
+    "window.inactiveBorder": "#2d2e2f",
+    "window.titleBarStyle": "custom",
+    "window.nativeTabs": false,
+    "activityBar.background": "#2d2e2f",
+    "activityBar.foreground": "#c4c4c4",
+    "selection.background": "#313131",
+    "checkbox.background": "#28292a",
+    "sideBar.background": "#2d2e2f",
+    "sideBar.foreground": "#9d9d9d",
+    "sideBarSectionHeader.background": "#2d2e2f",
+    "sideBarSectionHeader.foreground": "#485a6a",
+    "sideBarTitle.foreground": "#939393",
+    "input.background": "#28292a",
+    "inputOption.activeBorder": "#2e2f30",
+    "input.foreground": "#dcdedf",
+    "inputOption.activeForeground": "#dcdedf",
+    "input.placeholderForeground": "#525252",
+    "button.background": "#2a2a2c",
+    "button.foreground": "#dcdedf",
+    "statusBar.background": "#2d2e2f",
+    "statusBar.foreground": "#725955",
+    "dropdown.background": "#2a2a2c",
+    "dropdown.listBackground": "#302d2d",
+    "dropdown.border": "#2a2a2c"
+  },
+
 	"tokenColors": [
 		{
 			"name": "Comment",
@@ -60,6 +71,7 @@
 				"string constant.other.placeholder"
 			],
 			"settings": {
+				"fontStyle": "italic",
 				"foreground": "#a9645d"
 			}
 		},
@@ -79,7 +91,7 @@
 				"invalid.illegal"
 			],
 			"settings": {
-				"foreground": "#573738"
+				"foreground": "#b5b188"
 			}
 		},
 		{
@@ -110,6 +122,7 @@
 				"keyword.other.substitution"
 			],
 			"settings": {
+
 				"foreground": "#6d8279"
 			}
 		},
@@ -169,7 +182,7 @@
 				"keyword.other"
 			],
 			"settings": {
-				"foreground": "#653d3c"
+				"foreground": "#657378"
 			}
 		},
 		{
@@ -200,6 +213,7 @@
 				"support.type.sys-types"
 			],
 			"settings": {
+				
 				"foreground": "#b5b188"
 			}
 		},
@@ -659,5 +673,6 @@
 				"foreground": "#657378"
 			}
 		}
+		
 	]
 }

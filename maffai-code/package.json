@@ -1,57 +1,60 @@
- {
-	"name": "Maffai Code",
+{
+	"name": "maffai-code",
 	"type": "dark",
 	"editor.fontLigatures": true,
-
+	"background.customImages": [
+		"file//bg.png"
+	],
 	"colors": {
-    "foreground": "#cfcdca",
-    "focusBorder": "#2e2f30",
-    "errorForeground": "#883c3c",
-    "widget.border": "#2e2f30",
-    "editor.background": "#2d2e2f",
-    "editor.foreground": "#a0a0a0"
+		"foreground": "#cfcdca",
+		"focusBorder": "#2e2f30",
+		"errorForeground": "#883c3c",
+		"widget.border": "#2e2f30",
+		"editor.background": "#2d2e2f",
+		"editor.foreground": "#a0a0a0"
 	},
-
-  "workbench.colorCustomizations": {
-    "foreground": "#cfcdca",
-    "focusBorder": "#2e2f30",
-    "errorForeground": "#883c3c",
-    "widget.border": "#2e2f30",
-    "editorCodeLens.foreground": "#dcdedf",
-    "titleBarStyle": "hiddenInset",
-    "titleBar.activeBackground": "#2d2e2f",
-    "titleBar.activeForeground": "#2d2e2f",
-    "titleBar.inactiveBackground": "#2d2e2f",
-    "titleBar.inactiveForeground": "#7a7771",
-    "progressBar.background": "#28292a",
-    "titleBar.border": "#2d2e2f",
-    "window.activeBorder": "#2d2e2f",
-    "window.inactiveBorder": "#2d2e2f",
-    "window.titleBarStyle": "custom",
-    "window.nativeTabs": false,
-    "activityBar.background": "#2d2e2f",
-    "activityBar.foreground": "#c4c4c4",
-    "selection.background": "#313131",
-    "checkbox.background": "#28292a",
-    "sideBar.background": "#2d2e2f",
-    "sideBar.foreground": "#9d9d9d",
-    "sideBarSectionHeader.background": "#2d2e2f",
-    "sideBarSectionHeader.foreground": "#485a6a",
-    "sideBarTitle.foreground": "#939393",
-    "input.background": "#28292a",
-    "inputOption.activeBorder": "#2e2f30",
-    "input.foreground": "#dcdedf",
-    "inputOption.activeForeground": "#dcdedf",
-    "input.placeholderForeground": "#525252",
-    "button.background": "#2a2a2c",
-    "button.foreground": "#dcdedf",
-    "statusBar.background": "#2d2e2f",
-    "statusBar.foreground": "#725955",
-    "dropdown.background": "#2a2a2c",
-    "dropdown.listBackground": "#302d2d",
-    "dropdown.border": "#2a2a2c"
-  },
-
+	"workbench.colorCustomizations": {
+		"foreground": "#cfcdca",
+		"focusBorder": "#2e2f30",
+		"errorForeground": "#883c3c",
+		"widget.border": "#2e2f30",
+		"editorCodeLens.foreground": "#dcdedf",
+		"titleBarStyle": "hiddenInset",
+		"titleBar.activeBackground": "#2d2e2f",
+		"titleBar.activeForeground": "#2d2e2f",
+		"titleBar.inactiveBackground": "#2d2e2f",
+		"titleBar.inactiveForeground": "#7a7771",
+		"progressBar.background": "#28292a",
+		"titleBar.border": "#2d2e2f",
+		"window.activeBorder": "#2d2e2f",
+		"window.inactiveBorder": "#2d2e2f",
+		"window.titleBarStyle": "custom",
+		"window.nativeTabs": false,
+		"activityBar.background": "#2d2e2f",
+		"activityBar.foreground": "#c4c4c4",
+		"selection.background": "#313131",
+		"checkbox.background": "#28292a",
+		"sideBar.background": "#2d2e2f",
+		"sideBar.foreground": "#9d9d9d",
+		"sideBarSectionHeader.background": "#2d2e2f",
+		"sideBarSectionHeader.foreground": "#485a6a",
+		"sideBarTitle.foreground": "#939393",
+		"input.background": "#28292a",
+		"inputOption.activeBorder": "#2e2f30",
+		"input.foreground": "#dcdedf",
+		"inputOption.activeForeground": "#dcdedf",
+		"input.placeholderForeground": "#525252",
+		"button.background": "#a1a2ab",
+		"button.foreground": "#28292a",
+		"statusBar.background": "#2d2e2f",
+		"statusBar.foreground": "#725955",
+		"dropdown.background": "##2d2e2f",
+		"dropdown.listBackground": "#302d2d",
+		"dropdown.fontLigatures": true,
+		"dropdown.foreground": "#725955",
+		"dropdown.list_item": "#ae655f",
+		"dropdown.border": "##2d2e2f"
+	},
 	"tokenColors": [
 		{
 			"name": "Comment",
@@ -122,7 +125,6 @@
 				"keyword.other.substitution"
 			],
 			"settings": {
-
 				"foreground": "#6d8279"
 			}
 		},
@@ -213,7 +215,6 @@
 				"support.type.sys-types"
 			],
 			"settings": {
-				
 				"foreground": "#b5b188"
 			}
 		},
@@ -673,6 +674,5 @@
 				"foreground": "#657378"
 			}
 		}
-		
 	]
 }

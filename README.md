@@ -1,15 +1,13 @@
-# theme README
+<div align="center">
 
-Put the the folder in youre ~/.vscode/extensions folder
-apply the theme from Code > Settings > Theme > color theme.
-and restart vscode.
+<img src="bg.png" alt="Logo" width="80" height="80">
+  <h3 align="center">Maffai-code</h3>
+  <p align="center">
+Maffai theme for visual code studio.
+    <br />
+  </p>
+</div>
 
-## Working with Markdown
-
-  <h2>maffai vscode theme</h2>
-
-![sketchybarMaffai](https://github.com/john-json/maffai-vscode/blob/main/Screenshot.png?raw=true)
-
-
+[![maffai-code][screenshot.png]]()
 
 **Enjoy!**

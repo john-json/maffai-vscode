@@ -1,23 +1,30 @@
 {
   "name": "maffai-code",
-  "displayName": "Maffai Code",
+  "displayName": "maffai-code",
   "description": "Maffai Code Dark",
-  "author": "john-json",
+  "publisher": "jjsson",
+  "author": {
+    "name": "john"
+  },
   "icon": "icon.png",
   "version": "0.0.1",
   "license": "MIT",
   "engines": {
-    "vscode": "^1.91.0"
+    "vscode": "^1.91.1"
   },
   "categories": [
     "Themes"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/john.json"
+  },
   "contributes": {
     "themes": [
       {
-        "label": "Maffai Code",
+        "label": "maffai-code",
         "uiTheme": "vs-dark",
-        "path": "./themes/maffai-code.json"
+        "path": "./theme/package.json"
       }
     ]
   }

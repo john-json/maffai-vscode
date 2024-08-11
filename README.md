@@ -1,8 +1,5 @@
 
-
-=======
 # Maffai vscode
-<div align="center">
 <b>Its now published in the vscode market place</b>
 
 

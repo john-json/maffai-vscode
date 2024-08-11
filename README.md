@@ -1,13 +1,17 @@
-<div align="center">
 
-<img src="bg.png" alt="Logo" width="80" height="80">
-  <h3 align="center">Maffai-code</h3>
-  <p align="center">
-Maffai theme for visual code studio.
-    <br />
-  </p>
-</div>
+# Maffai vscode
+<b>Its now published in the vscode market place</b>
 
-[![maffai-code][screenshot.png]]()
+
+------------------------------------------------------------
+++ Put the the folder in youre ~/.vscode/extensions folder
+apply the theme from Code > Settings > Theme > color theme.
+and restart vscode.
+
+-----------------------------------------------------------
+
+  <h2>maffai vscode theme</h2>
+
+![sketchybarMaffai](https://github.com/john-json/maffai-vscode/blob/main/Screenshot.png?raw=true)
 
 **Enjoy!**
